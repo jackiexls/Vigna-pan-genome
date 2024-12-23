@@ -10,6 +10,7 @@ Pipelines and relevant scripts for:
 - Graph genome construction
 - Phylogeny
 - Pan-genome
+- Population genomics
 
 
 # Citation
