@@ -9,7 +9,7 @@ Pipelines and relevant scripts for:
 - Genome annotation
 - Graph genome construction
 - Phylogeny
-- Population genomics
+- Pan-genome
 
 
 # Citation
